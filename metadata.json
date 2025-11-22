@@ -1,0 +1,5 @@
+{
+  "name": "Hyperliquid Risk Manager",
+  "description": "A trading utility for Hyperliquid users to track active positions, analyze portfolio risk, and calculate optimal position sizes based on risk management principles.",
+  "requestFramePermissions": []
+}
